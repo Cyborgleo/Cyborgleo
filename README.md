@@ -7,7 +7,20 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
 
-**Author:** Liyon Liju · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://YOUR-SITE) · your.email@example.com
+**Author:** Liyon Liju · 📧 [liyonliju1@gmail.com](mailto:liyonliju1@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+
+---
+
+## 👤 About the Author
+
+I'm **Liyon Liju**, a cybersecurity enthusiast from Kerala, India, with a strong foundation in:
+
+- **Networking**: protocols, TCP/IP, subnetting, firewalls, traffic analysis
+- **Operating Systems**: Windows and Linux administration, logging and hardening
+- **Cybersecurity fundamentals**: threat detection, vulnerability assessment, incident response
+- **AI**: applying machine learning to security problems
+
+This project brings those skills together in a hands-on, reproducible lab.
 
 ---
 
@@ -254,6 +267,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## 🙋 Contact
 
 **Liyon Liju**  
-📧 your.email@example.com · 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · 🌐 [Portfolio](https://YOUR-SITE)
+📧 [liyonliju1@gmail.com](mailto:liyonliju1@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
 
 ⭐ If you found this project useful, please star the repo!
